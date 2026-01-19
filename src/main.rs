@@ -1,3 +1,5 @@
+mod models;
+
 struct LinusTorvalds;
 
 impl LinusTorvalds {
