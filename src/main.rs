@@ -1,3 +1,5 @@
+mod config;
+mod dtos;
 mod models;
 
 struct LinusTorvalds;
