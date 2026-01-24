@@ -1,3 +1,5 @@
+#![allow(dead_code)]
+
 use chrono::prelude::*;
 use serde::{Deserialize, Serialize};
 
